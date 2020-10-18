@@ -1,4 +1,7 @@
-# Instagram Clone (React + Firebase)
+# Instagram's web app clone
+
+Frontend framework: React <br />
+Backend: Firebase
 
 Project hosted live at: https://instagram-clone-27222.web.app/
 
